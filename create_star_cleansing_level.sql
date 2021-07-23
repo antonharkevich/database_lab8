@@ -1,0 +1,9 @@
+BEGIN
+   SAL_DW_CL_USER.pkg_cleansing_star.games;
+   SAL_DW_CL_USER.pkg_cleansing_star.customers;
+   SAL_DW_CL_USER.pkg_cleansing_star.companies;
+   SAL_DW_CL_USER.pkg_cleansing_star.geo_locations;
+   SAL_DW_CL_USER.pkg_cleansing_star.sales;
+   SAL_DW_CL_USER.pkg_cleansing_star.ld_date;
+   SAL_DW_CL_USER.pkg_cleansing_star.gen_periods;
+END;
